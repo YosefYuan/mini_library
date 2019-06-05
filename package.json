@@ -1,0 +1,24 @@
+{
+  "name": "mini_library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosefYuan/mini_library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YosefYuan/mini_library/issues"
+  },
+  "homepage": "https://github.com/YosefYuan/mini_library#readme",
+  "dependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  }
+}
